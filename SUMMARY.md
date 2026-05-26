@@ -3,22 +3,23 @@
 * [🏠 Home/Read Me](README.md)
 * [🔬 How to Contribute](how-to-contribute.md)
 
-## 🛸 Project SkyHarpy
+## 👥 COLLABORATION ZONE
 
-* [📄 System Architecture](project-skyharpy/system-architecture.md)
-* [📄 Component Prototyping](project-skyharpy/component-prototyping.md)
+* [📄 Active Research Log Template](collaboration-zone/active-research-log-template.md)
+* [🔬 Research Notes](collaboration-zone/research-notes/README.md)
+  * [📄 Log 001](collaboration-zone/research-notes/log-001.md)
 
-## 🛠️ Hardware Rigs
+## PROJECTS & PORTFOLIO
 
-* [📄 The Apartment Testbed](hardware-rigs/the-apartment-testbed.md)
-* [📄 Custom Toolheads](hardware-rigs/custom-toolheads.md)
+* [🛸 Project SkyHarpy](projects-and-portfolio/project-skyharpy/README.md)
+  * [📄 System Architecture](projects-and-portfolio/project-skyharpy/system-architecture.md)
+  * [📄 Component Prototyping](projects-and-portfolio/project-skyharpy/component-prototyping.md)
 
-## ⚙️ Software & Slicing
+## 🛠️ LABORATORY ASSETS
 
-* [📄 Calibration Standards](software-and-slicing/calibration-standards.md)
-* [📄 OrcaSlicer / Bambu Studio Profiles](software-and-slicing/orcaslicer-bambu-studio-profiles.md)
-
-## 🔬 Research Notes
-
-* [📄 Active Research Log Template](research-notes/active-research-log-template.md)
-* [📄 Log 001](research-notes/log-001.md)
+* [🛠️ Hardware Rigs](laboratory-assets/hardware-rigs/README.md)
+  * [📄 The Apartment Testbed](laboratory-assets/hardware-rigs/the-apartment-testbed.md)
+  * [📄 Custom Toolheads](laboratory-assets/hardware-rigs/custom-toolheads.md)
+* [⚙️ Software & Slicing](laboratory-assets/software-and-slicing/README.md)
+  * [📄 Calibration Standards](laboratory-assets/software-and-slicing/calibration-standards.md)
+  * [📄 OrcaSlicer / Bambu Studio Profiles](laboratory-assets/software-and-slicing/orcaslicer-bambu-studio-profiles.md)

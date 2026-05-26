@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Home/Read Me](README.md)
+* [🔬 How to Contribute](how-to-contribute.md)
 
 ## 🛠️ Hardware Rigs
 

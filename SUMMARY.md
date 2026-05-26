@@ -3,6 +3,11 @@
 * [🏠 Home/Read Me](README.md)
 * [🔬 How to Contribute](how-to-contribute.md)
 
+## 🛸 Project SkyHarpy
+
+* [📄 System Architecture](project-skyharpy/system-architecture.md)
+* [📄 Component Prototyping](project-skyharpy/component-prototyping.md)
+
 ## 🛠️ Hardware Rigs
 
 * [📄 The Apartment Testbed](hardware-rigs/the-apartment-testbed.md)

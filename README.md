@@ -21,4 +21,3 @@ We are a community-driven, grassroots R\&D initiative dedicated to exploring the
 * **The Ender-3 Hacking Platform:** Converting stock consumer mechanics into robust, modular paste and engineering-grade filament testbeds.
 * **The Research Ledger:** A standardized, peer-reviewed logging system for material rheology and failure analysis.
 
-####

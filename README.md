@@ -20,3 +20,13 @@ We are a community-driven, grassroots R\&D initiative dedicated to exploring the
 
 * **The Ender-3 Hacking Platform:** Converting stock consumer mechanics into robust, modular paste and engineering-grade filament testbeds.
 * **The Research Ledger:** A standardized, peer-reviewed logging system for material rheology and failure analysis.
+
+#### 🔬 How to Submit Your Research Logs for Free
+
+You don't need a GitBook account to contribute to Atlas Skies Docs! We run entirely on open-source GitHub infrastructure.
+
+1. Create a Free Account: Sign up at [GitHub.com](https://github.com).
+2. Go to Our Repository: Click the GitHub icon at the top of this documentation page.
+3. Find the Templates Folder: Navigate to `Research-Logs/` and open our blank template file.
+4. Create Your Log: Copy the template text, click "New File" in that folder, paste the text, and fill out your printer metrics or paste recipes.
+5. Submit: Click "Propose changes" (this creates a Pull Request). Once our lab review team verifies the format, your log will automatically publish live to the Atlas Skies website!

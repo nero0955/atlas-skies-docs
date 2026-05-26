@@ -14,6 +14,9 @@
 * [🛸 Project SkyHarpy](projects-and-portfolio/project-skyharpy/README.md)
   * [📄 System Architecture](projects-and-portfolio/project-skyharpy/system-architecture.md)
   * [📄 Component Prototyping](projects-and-portfolio/project-skyharpy/component-prototyping.md)
+* [📁 DIY Soil Automation Hub](projects-and-portfolio/diy-soil-automation-hub/README.md)
+  * [📄 System Hardware & Pinouts](projects-and-portfolio/diy-soil-automation-hub/system-hardware-and-pinouts.md)
+  * [📄 MicroPython Control Logic](projects-and-portfolio/diy-soil-automation-hub/micropython-control-logic.md)
 
 ## 🛠️ LABORATORY ASSETS
 
